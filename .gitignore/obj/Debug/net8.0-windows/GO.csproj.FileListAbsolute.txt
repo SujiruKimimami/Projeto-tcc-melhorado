@@ -1,0 +1,262 @@
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\GOCompany\bin\Debug\net8.0-windows\GO.exe
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\GOCompany\bin\Debug\net8.0-windows\GO.deps.json
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\GOCompany\bin\Debug\net8.0-windows\GO.runtimeconfig.json
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\GOCompany\bin\Debug\net8.0-windows\GO.dll
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\GOCompany\bin\Debug\net8.0-windows\GO.pdb
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\GOCompany\obj\Debug\net8.0-windows\GO.csproj.AssemblyReference.cache
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\GOCompany\obj\Debug\net8.0-windows\GO.Properties.Resources.resources
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\GOCompany\obj\Debug\net8.0-windows\WinFormsApp2.Tela_de_Cadastro.resources
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\GOCompany\obj\Debug\net8.0-windows\GO.csproj.GenerateResource.cache
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\GOCompany\obj\Debug\net8.0-windows\GO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\GOCompany\obj\Debug\net8.0-windows\GO.AssemblyInfoInputs.cache
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\GOCompany\obj\Debug\net8.0-windows\GO.AssemblyInfo.cs
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\GOCompany\obj\Debug\net8.0-windows\GO.csproj.CoreCompileInputs.cache
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\GOCompany\obj\Debug\net8.0-windows\GO.csproj.Up2Date
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\GOCompany\obj\Debug\net8.0-windows\GO.dll
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\GOCompany\obj\Debug\net8.0-windows\refint\GO.dll
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\GOCompany\obj\Debug\net8.0-windows\GO.pdb
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\GOCompany\obj\Debug\net8.0-windows\GO.genruntimeconfig.cache
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\GOCompany\obj\Debug\net8.0-windows\ref\GO.dll
+D:\TCC\TCC\GOCompany\bin\Debug\net8.0-windows\GO.exe
+D:\TCC\TCC\GOCompany\bin\Debug\net8.0-windows\GO.deps.json
+D:\TCC\TCC\GOCompany\bin\Debug\net8.0-windows\GO.runtimeconfig.json
+D:\TCC\TCC\GOCompany\bin\Debug\net8.0-windows\GO.dll
+D:\TCC\TCC\GOCompany\bin\Debug\net8.0-windows\GO.pdb
+D:\TCC\TCC\GOCompany\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+D:\TCC\TCC\GOCompany\bin\Debug\net8.0-windows\Google.Protobuf.dll
+D:\TCC\TCC\GOCompany\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+D:\TCC\TCC\GOCompany\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+D:\TCC\TCC\GOCompany\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+D:\TCC\TCC\GOCompany\bin\Debug\net8.0-windows\MySql.Data.dll
+D:\TCC\TCC\GOCompany\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\TCC\TCC\GOCompany\bin\Debug\net8.0-windows\ZstdSharp.dll
+D:\TCC\TCC\GOCompany\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+D:\TCC\TCC\GOCompany\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+D:\TCC\TCC\GOCompany\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+D:\TCC\TCC\GOCompany\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+D:\TCC\TCC\GOCompany\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+D:\TCC\TCC\GOCompany\obj\Debug\net8.0-windows\GO.csproj.AssemblyReference.cache
+D:\TCC\TCC\GOCompany\obj\Debug\net8.0-windows\GO.Properties.Resources.resources
+D:\TCC\TCC\GOCompany\obj\Debug\net8.0-windows\GO.Tela_Cadastrar_Passagem.resources
+D:\TCC\TCC\GOCompany\obj\Debug\net8.0-windows\WinFormsApp2.Tela_de_Cadastro.resources
+D:\TCC\TCC\GOCompany\obj\Debug\net8.0-windows\GO.Tela_Gerente.resources
+D:\TCC\TCC\GOCompany\obj\Debug\net8.0-windows\GO.csproj.GenerateResource.cache
+D:\TCC\TCC\GOCompany\obj\Debug\net8.0-windows\GO.GeneratedMSBuildEditorConfig.editorconfig
+D:\TCC\TCC\GOCompany\obj\Debug\net8.0-windows\GO.AssemblyInfoInputs.cache
+D:\TCC\TCC\GOCompany\obj\Debug\net8.0-windows\GO.AssemblyInfo.cs
+D:\TCC\TCC\GOCompany\obj\Debug\net8.0-windows\GO.csproj.CoreCompileInputs.cache
+D:\TCC\TCC\GOCompany\obj\Debug\net8.0-windows\GO.csproj.Up2Date
+D:\TCC\TCC\GOCompany\obj\Debug\net8.0-windows\GO.dll
+D:\TCC\TCC\GOCompany\obj\Debug\net8.0-windows\refint\GO.dll
+D:\TCC\TCC\GOCompany\obj\Debug\net8.0-windows\GO.pdb
+D:\TCC\TCC\GOCompany\obj\Debug\net8.0-windows\GO.genruntimeconfig.cache
+D:\TCC\TCC\GOCompany\obj\Debug\net8.0-windows\ref\GO.dll
+D:\TCC\GOCompany\bin\Debug\net8.0-windows\GO.exe
+D:\TCC\GOCompany\bin\Debug\net8.0-windows\GO.deps.json
+D:\TCC\GOCompany\bin\Debug\net8.0-windows\GO.runtimeconfig.json
+D:\TCC\GOCompany\bin\Debug\net8.0-windows\GO.dll
+D:\TCC\GOCompany\bin\Debug\net8.0-windows\GO.pdb
+D:\TCC\GOCompany\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+D:\TCC\GOCompany\bin\Debug\net8.0-windows\Google.Protobuf.dll
+D:\TCC\GOCompany\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+D:\TCC\GOCompany\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+D:\TCC\GOCompany\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+D:\TCC\GOCompany\bin\Debug\net8.0-windows\MySql.Data.dll
+D:\TCC\GOCompany\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\TCC\GOCompany\bin\Debug\net8.0-windows\ZstdSharp.dll
+D:\TCC\GOCompany\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+D:\TCC\GOCompany\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+D:\TCC\GOCompany\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+D:\TCC\GOCompany\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+D:\TCC\GOCompany\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+D:\TCC\GOCompany\obj\Debug\net8.0-windows\GO.csproj.AssemblyReference.cache
+D:\TCC\GOCompany\obj\Debug\net8.0-windows\GO.Properties.Resources.resources
+D:\TCC\GOCompany\obj\Debug\net8.0-windows\GO.Tela_Cadastrar_Passagem.resources
+D:\TCC\GOCompany\obj\Debug\net8.0-windows\WinFormsApp2.Tela_de_Cadastro.resources
+D:\TCC\GOCompany\obj\Debug\net8.0-windows\GO.Tela_Gerente.resources
+D:\TCC\GOCompany\obj\Debug\net8.0-windows\GO.csproj.GenerateResource.cache
+D:\TCC\GOCompany\obj\Debug\net8.0-windows\GO.GeneratedMSBuildEditorConfig.editorconfig
+D:\TCC\GOCompany\obj\Debug\net8.0-windows\GO.AssemblyInfoInputs.cache
+D:\TCC\GOCompany\obj\Debug\net8.0-windows\GO.AssemblyInfo.cs
+D:\TCC\GOCompany\obj\Debug\net8.0-windows\GO.csproj.CoreCompileInputs.cache
+D:\TCC\GOCompany\obj\Debug\net8.0-windows\GO.csproj.Up2Date
+D:\TCC\GOCompany\obj\Debug\net8.0-windows\GO.dll
+D:\TCC\GOCompany\obj\Debug\net8.0-windows\refint\GO.dll
+D:\TCC\GOCompany\obj\Debug\net8.0-windows\GO.pdb
+D:\TCC\GOCompany\obj\Debug\net8.0-windows\GO.genruntimeconfig.cache
+D:\TCC\GOCompany\obj\Debug\net8.0-windows\ref\GO.dll
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\TCC\GOCompany\bin\Debug\net8.0-windows\GO.exe
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\TCC\GOCompany\bin\Debug\net8.0-windows\GO.deps.json
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\TCC\GOCompany\bin\Debug\net8.0-windows\GO.runtimeconfig.json
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\TCC\GOCompany\bin\Debug\net8.0-windows\GO.dll
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\TCC\GOCompany\bin\Debug\net8.0-windows\GO.pdb
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\TCC\GOCompany\obj\Debug\net8.0-windows\GO.csproj.AssemblyReference.cache
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\TCC\GOCompany\obj\Debug\net8.0-windows\GO.Properties.Resources.resources
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\TCC\GOCompany\obj\Debug\net8.0-windows\GO.Tela_Cadastrar_Passagem.resources
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\TCC\GOCompany\obj\Debug\net8.0-windows\WinFormsApp2.Tela_de_Cadastro.resources
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\TCC\GOCompany\obj\Debug\net8.0-windows\GO.Tela_Gerente.resources
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\TCC\GOCompany\obj\Debug\net8.0-windows\GO.csproj.GenerateResource.cache
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\TCC\GOCompany\obj\Debug\net8.0-windows\GO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\TCC\GOCompany\obj\Debug\net8.0-windows\GO.AssemblyInfoInputs.cache
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\TCC\GOCompany\obj\Debug\net8.0-windows\GO.AssemblyInfo.cs
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\TCC\GOCompany\obj\Debug\net8.0-windows\GO.csproj.CoreCompileInputs.cache
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\TCC\GOCompany\obj\Debug\net8.0-windows\GO.csproj.Up2Date
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\TCC\GOCompany\obj\Debug\net8.0-windows\GO.dll
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\TCC\GOCompany\obj\Debug\net8.0-windows\refint\GO.dll
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\TCC\GOCompany\obj\Debug\net8.0-windows\GO.pdb
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\TCC\GOCompany\obj\Debug\net8.0-windows\GO.genruntimeconfig.cache
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\TCC\GOCompany\obj\Debug\net8.0-windows\ref\GO.dll
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\GOCompany\obj\Debug\net8.0-windows\GO.Tela_Gerente.resources
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\GOCompany\obj\Debug\net8.0-windows\GO.Tela_Gerente_Cancelar_Passagem.resources
+D:\TCC\GOCompany\obj\Debug\net8.0-windows\GO.Tela_Gerente_Cancelar_Passagem.resources
+D:\TCC\GOCompany\obj\Debug\net8.0-windows\GO.Tela_Menu_Principal.resources
+D:\TCC\GOCompany\obj\Debug\net8.0-windows\GO.Tela_Entrar_Funcionario.resources
+E:\TCC\GOCompany\bin\Debug\net8.0-windows\GO.exe
+E:\TCC\GOCompany\bin\Debug\net8.0-windows\GO.deps.json
+E:\TCC\GOCompany\bin\Debug\net8.0-windows\GO.runtimeconfig.json
+E:\TCC\GOCompany\bin\Debug\net8.0-windows\GO.dll
+E:\TCC\GOCompany\bin\Debug\net8.0-windows\GO.pdb
+E:\TCC\GOCompany\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+E:\TCC\GOCompany\bin\Debug\net8.0-windows\Google.Protobuf.dll
+E:\TCC\GOCompany\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+E:\TCC\GOCompany\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+E:\TCC\GOCompany\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+E:\TCC\GOCompany\bin\Debug\net8.0-windows\MySql.Data.dll
+E:\TCC\GOCompany\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+E:\TCC\GOCompany\bin\Debug\net8.0-windows\ZstdSharp.dll
+E:\TCC\GOCompany\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+E:\TCC\GOCompany\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+E:\TCC\GOCompany\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+E:\TCC\GOCompany\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+E:\TCC\GOCompany\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+E:\TCC\GOCompany\obj\Debug\net8.0-windows\GO.csproj.AssemblyReference.cache
+E:\TCC\GOCompany\obj\Debug\net8.0-windows\GO.Properties.Resources.resources
+E:\TCC\GOCompany\obj\Debug\net8.0-windows\GO.Tela_Cadastrar_Passagem.resources
+E:\TCC\GOCompany\obj\Debug\net8.0-windows\WinFormsApp2.Tela_de_Cadastro.resources
+E:\TCC\GOCompany\obj\Debug\net8.0-windows\GO.Tela_Entrar_Funcionario.resources
+E:\TCC\GOCompany\obj\Debug\net8.0-windows\GO.Tela_Gerente.resources
+E:\TCC\GOCompany\obj\Debug\net8.0-windows\GO.Tela_Gerente_Cancelar_Passagem.resources
+E:\TCC\GOCompany\obj\Debug\net8.0-windows\GO.Tela_Menu_Principal.resources
+E:\TCC\GOCompany\obj\Debug\net8.0-windows\GO.csproj.GenerateResource.cache
+E:\TCC\GOCompany\obj\Debug\net8.0-windows\GO.GeneratedMSBuildEditorConfig.editorconfig
+E:\TCC\GOCompany\obj\Debug\net8.0-windows\GO.AssemblyInfoInputs.cache
+E:\TCC\GOCompany\obj\Debug\net8.0-windows\GO.AssemblyInfo.cs
+E:\TCC\GOCompany\obj\Debug\net8.0-windows\GO.csproj.CoreCompileInputs.cache
+E:\TCC\GOCompany\obj\Debug\net8.0-windows\GO.csproj.Up2Date
+E:\TCC\GOCompany\obj\Debug\net8.0-windows\GO.dll
+E:\TCC\GOCompany\obj\Debug\net8.0-windows\refint\GO.dll
+E:\TCC\GOCompany\obj\Debug\net8.0-windows\GO.pdb
+E:\TCC\GOCompany\obj\Debug\net8.0-windows\GO.genruntimeconfig.cache
+E:\TCC\GOCompany\obj\Debug\net8.0-windows\ref\GO.dll
+D:\TCC\GOCompany\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+D:\TCC\GOCompany\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+D:\TCC\GOCompany\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+D:\TCC\GOCompany\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+D:\TCC\GOCompany\bin\Debug\net8.0-windows\System.Security.Permissions.dll
+D:\TCC\GOCompany\bin\Debug\net8.0-windows\System.Text.Json.dll
+D:\TCC\GOCompany\bin\Debug\net8.0-windows\System.Windows.Extensions.dll
+D:\TCC\GOCompany\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+D:\TCC\GOCompany\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+D:\TCC\GOCompany\obj\Debug\net8.0-windows\GO.Menu_Principal.resources
+C:\Users\Isaque\Documents\Fs\TCC\GOCompany\obj\Debug\net8.0-windows\GO.csproj.AssemblyReference.cache
+C:\Users\Isaque\Documents\Fs\TCC\GOCompany\obj\Debug\net8.0-windows\GO.dll
+C:\Users\Isaque\Documents\Fs\TCC\GOCompany\obj\Debug\net8.0-windows\refint\GO.dll
+C:\Users\Isaque\Documents\Fs\TCC\GOCompany\obj\Debug\net8.0-windows\GO.pdb
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\TCC\GOCompany\obj\Debug\net8.0-windows\GO.Menu_Principal.resources
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\TCC\GOCompany\obj\Debug\net8.0-windows\GO.Tela_Entrar_Funcionario.resources
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\TCC\GOCompany\obj\Debug\net8.0-windows\GO.Tela_Gerente_Cancelar_Passagem.resources
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\TCC\GOCompany\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\TCC\GOCompany\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\TCC\GOCompany\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\TCC\GOCompany\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\TCC\GOCompany\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\TCC\GOCompany\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\TCC\GOCompany\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\TCC\GOCompany\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\TCC\GOCompany\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\TCC\GOCompany\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\TCC\GOCompany\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\TCC\GOCompany\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\TCC\GOCompany\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\TCC\GOCompany\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\TCC\GOCompany\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\TCC\GOCompany\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\TCC\GOCompany\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\TCC\GOCompany\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\TCC\GOCompany\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\TCC\GOCompany\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\TCC\GOCompany\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\TCC\GOCompany\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\TCC\GOCompany\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\TCC\GOCompany\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\TCC\GOCompany\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\TCC\GOCompany\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\TCC\GOCompany\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\TCC\GOCompany\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\TCC\GOCompany\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\TCC\GOCompany\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\TCC\GOCompany\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\TCC\GOCompany\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\TCC\GOCompany\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\TCC\GOCompany\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\TCC\GOCompany\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\TCC\GOCompany\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\TCC\GOCompany\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\TCC\GOCompany\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\TCC\GOCompany\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\TCC\GOCompany\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\TCC\GOCompany\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\TCC\GOCompany\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\TCC\GOCompany\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\TCC\GOCompany\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\TCC\GOCompany\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\TCC\GOCompany\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\GOCompany\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\GOCompany\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\GOCompany\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\GOCompany\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\GOCompany\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\GOCompany\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\GOCompany\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\GOCompany\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\GOCompany\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\GOCompany\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\GOCompany\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\GOCompany\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\GOCompany\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\GOCompany\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\GOCompany\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\GOCompany\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\GOCompany\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\GOCompany\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\GOCompany\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\GOCompany\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\GOCompany\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\GOCompany\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\GOCompany\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\GOCompany\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\GOCompany\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\GOCompany\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\GOCompany\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\GOCompany\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\GOCompany\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\GOCompany\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\GOCompany\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\GOCompany\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\GOCompany\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\GOCompany\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\GOCompany\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\GOCompany\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\GOCompany\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\GOCompany\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\GOCompany\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\GOCompany\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\GOCompany\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\GOCompany\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\GOCompany\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\GOCompany\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\GOCompany\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\GOCompany\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\GOCompany\obj\Debug\net8.0-windows\GO.Menu_Principal.resources
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\GOCompany\obj\Debug\net8.0-windows\GO.Tela_Gerente_Cadastrar_Passagem.resources
+C:\Users\sorri\OneDrive\Desktop\Não sei\TCC\GOCompany\obj\Debug\net8.0-windows\GO.Tela_Gerente_Login.resources

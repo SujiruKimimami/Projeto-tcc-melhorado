@@ -1,0 +1,17 @@
+C:\LP4\Arquivos\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.exe
+C:\LP4\Arquivos\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.deps.json
+C:\LP4\Arquivos\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.runtimeconfig.json
+C:\LP4\Arquivos\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.dll
+C:\LP4\Arquivos\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.pdb
+C:\LP4\Arquivos\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.Properties.Resources.resources
+C:\LP4\Arquivos\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.csproj.GenerateResource.cache
+C:\LP4\Arquivos\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\LP4\Arquivos\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.AssemblyInfoInputs.cache
+C:\LP4\Arquivos\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.AssemblyInfo.cs
+C:\LP4\Arquivos\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.csproj.CoreCompileInputs.cache
+C:\LP4\Arquivos\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.dll
+C:\LP4\Arquivos\WinFormsApp2\obj\Debug\net8.0-windows\refint\WinFormsApp2.dll
+C:\LP4\Arquivos\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.pdb
+C:\LP4\Arquivos\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.genruntimeconfig.cache
+C:\LP4\Arquivos\WinFormsApp2\obj\Debug\net8.0-windows\ref\WinFormsApp2.dll
+C:\LP4\Arquivos\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.Tela_de_Cadastro.resources
