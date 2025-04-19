@@ -1,0 +1,15 @@
+# Arquivos e pastas geradas pelo Visual Studio
+.vs/
+.vscode/
+# Diretórios bin e obj
+bin/
+obj/
+
+# Arquivos de configuração do usuário do Visual Studio
+.vsconfig
+# Ficheiros de logs
+*.log
+# Arquivos de dependências
+*.dll
+*.exe
+ 
