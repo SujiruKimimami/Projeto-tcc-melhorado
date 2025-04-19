@@ -12,17 +12,23 @@ namespace GO
 {
     public partial class Tela_Gerente_Cadastrar_Passagem : Form
     {
-        ToolTip mensagem = new ToolTip();
+        ToolTip tooltip = new ToolTip();
         Consultas_toSqlServer consultas;
         public Tela_Gerente_Cadastrar_Passagem()
         {
             InitializeComponent();
             consultas = new Consultas_toSqlServer(string.Empty);
+            dtpChegada.Format = DateTimePickerFormat.Custom;
+            dtpChegada.CustomFormat = "dd/MM/yyyy HH:mm";
+
+            dtpPartida.Format = DateTimePickerFormat.Custom;
+            dtpPartida.CustomFormat = "dd/MM/yyyy HH:mm";
+
         }
 
         private void pbImagem_MouseHover(object sender, EventArgs e)
         {
-            mensagem.Show("Clique para selecionar imagem. (372px;154px)", pbImagemDestino);
+            tooltip.Show("Clique para selecionar imagem. (372px;154px)", pbImagemDestino);
         }
 
         private void pbImagem_Click(object sender, EventArgs e)
@@ -47,21 +53,18 @@ namespace GO
         private void btnCadastrar_Click(object sender, EventArgs e)
         //talvez eu coloque passagens de graça
         {
-
-            if ( txtDestino.Text != string.Empty && txtLocalPartida.Text != string.Empty)
+            if ((txtDestino.Text != string.Empty) && (cbLocalPartida.Text != string.Empty))
             {
-
                 byte[] imagemDestinoBytes = Converter_de_imagem_para_byte();
                 consultas.Inserir_na_tabela_passagens(imagemDestinoBytes, Convert.ToInt32(nmrPilotoId.Value), Convert.ToInt32(nmrCopilotoId.Value),
-     Convert.ToInt32(nmrAeromoca1Id.Value), Convert.ToInt32(nmrAeromoca2Id.Value), Convert.ToInt32(nmrAeromoca3Id.Value), nmrValorEconomicaPassagem.Value,
-     nmrValorLuxoPassagem.Value, txtDestino.Text, txtLocalPartida.Text);
-                MessageBox.Show($"Sua passagem para {txtDestino.Text} foi inserida com sucesso!",
-                    "passagem efetuada", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                    Convert.ToInt32(nmrAeromoca1Id.Value), Convert.ToInt32(nmrAeromoca2Id.Value), Convert.ToInt32(nmrAeromoca3Id.Value), nmrValorEconomicaPassagem.Value,
+                    nmrValorLuxoPassagem.Value, txtDestino.Text, cbLocalPartida.Text, dtpChegada.Value, dtpPartida.Value);
+            }else
+                MessageBox.Show("Algums campos obrigatórios estão nulos",
+                       "Ausência de dados",
+                       MessageBoxButtons.OK,
+                       MessageBoxIcon.Error); ;
 
-            }
-            else
-                MessageBox.Show("Todos os campos devem estar preenchidos corretamente!",
-                    "Houve algum erro", MessageBoxButtons.OK, MessageBoxIcon.Stop);
 
         }
         private byte[] Converter_de_imagem_para_byte()
@@ -70,9 +73,7 @@ namespace GO
             MemoryStream stream = new MemoryStream();
 
             img.Save(stream, img.RawFormat);
-            return stream.ToArray(); // o arquivo recebebidor é byte
-
-
+            return stream.ToArray(); 
         }
 
         private void label10_Click(object sender, EventArgs e)

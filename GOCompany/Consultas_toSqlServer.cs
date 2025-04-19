@@ -90,28 +90,43 @@ namespace GO
         }
 
         public void Inserir_na_tabela_passagens(byte[] imagemDestinoByte,int pilotoId, int copilotoId, int aeromoca1Id, int aeromoca2Id,
-            int aeromoca3Id, decimal valorEconomica, decimal valorLuxo, string destino, string localPartida)
+            int aeromoca3Id, decimal valorEconomica, decimal valorLuxo, string destino, string localPartida, DateTime dhchegada, DateTime dhpartida)
         {
             conn.Open();
-                using (SqlCommand consulta = new SqlCommand(" INSERT INTO Passagens(imagem_destino, id_piloto, id_copiloto, id_comissaria1," +
-                    " id_comissaria2, id_comissaria3, valor_economica, valor_luxo, destino, local_partida) VALUES(@ImagemDestino, @PilotoId," +
-                    " @CopilotoId, @Aeromoca1Id, @Aeromoca2Id, @Aeromoca3Id, @ValorEconomica, @ValorLuxo, @Destino, @LocalPartida)", conn))
+            try 
+            {
+                using (SqlCommand consulta = new SqlCommand("INSERT INTO gocompany.passagens(imagem_destino, valor_economica, valor_luxo, destino," +
+                    " local_partida, data_hora_chegada, data_hora_partida) VALUES(@ImagemDestino, @ValorEconomica, @ValorLuxo, @Destino, @LocalPartida, @dhchegada, @dhpartida)", conn))
                 {
                     consulta.Parameters.AddWithValue("@ImagemDestino", imagemDestinoByte);
-                    consulta.Parameters.AddWithValue("@PilotoId", pilotoId);
-                    consulta.Parameters.AddWithValue("@CopilotoId", copilotoId);
-                    consulta.Parameters.AddWithValue("@Aeromoca1Id", aeromoca1Id);
-                    consulta.Parameters.AddWithValue("@Aeromoca2Id", aeromoca2Id);
-                    consulta.Parameters.AddWithValue("@Aeromoca3Id", aeromoca3Id);
+                  //consulta.Parameters.AddWithValue("@PilotoId", pilotoId);
+                  //consulta.Parameters.AddWithValue("@CopilotoId", copilotoId);
+                  //consulta.Parameters.AddWithValue("@Aeromoca1Id", aeromoca1Id);
+                  //consulta.Parameters.AddWithValue("@Aeromoca2Id", aeromoca2Id);
+                  //consulta.Parameters.AddWithValue("@Aeromoca3Id", aeromoca3Id);
                     consulta.Parameters.AddWithValue("@ValorEconomica", valorEconomica);
                     consulta.Parameters.AddWithValue("@ValorLuxo", valorLuxo);
                     consulta.Parameters.AddWithValue("@Destino", destino);
                     consulta.Parameters.AddWithValue("@LocalPartida", localPartida);
+                    consulta.Parameters.AddWithValue("@dhchegada", dhchegada);
+                    consulta.Parameters.AddWithValue("@dhpartida", dhpartida);
+
 
                     consulta.ExecuteNonQuery();
+                    MessageBox.Show($"Sua passagem para {destino} foi inserida com sucesso!",
+                       "passagem efetuada", MessageBoxButtons.OK, MessageBoxIcon.Information);
                 }
+            }
+            catch (SqlException exSql) 
+            {
+                    MessageBox.Show(exSql.Message,
+                        "Erro Com o servidor",
+                        MessageBoxButtons.OK,
+                        MessageBoxIcon.Error);
+
+            }
+                
                 conn.Close();
-            
         }
 
         public bool Acessar_Conta_Cliente(string email, string senha)

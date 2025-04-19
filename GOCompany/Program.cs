@@ -13,7 +13,7 @@ namespace WinFormsApp2
             // To customize application configuration such as set high DPI settings or default font,
             // see https://aka.ms/applicationconfiguration.
             ApplicationConfiguration.Initialize();
-            Application.Run(new Tela_Gerente());
+            Application.Run(new Tela_Gerente_Cadastrar_Passagem());
         }
     }
 }
